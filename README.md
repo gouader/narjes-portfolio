@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio — Gouader Narjes
 
 Portfolio personnel responsive en HTML, CSS et JavaScript.
@@ -26,3 +27,6 @@ Vous pouvez aussi ouvrir directement `index.html` dans votre navigateur.
 
 ## Déploiement
 Le dossier est un site statique : vous pouvez le publier sur Vercel en important le dossier ou le dépôt GitHub. Aucun build ni commande d'installation n'est nécessaire.
+=======
+# narjes-portfolio
+>>>>>>> 51017db5bc79ebd7a9b118eb173fbb3a11044204
